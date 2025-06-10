@@ -1,0 +1,3 @@
+main colour : #004578
+sub main colour :  #004590
+text colour : #ff2c2c
